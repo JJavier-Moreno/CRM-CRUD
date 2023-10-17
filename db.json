@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose ",
+      "email": "jjavier.ferez@gmail.com",
+      "telefono": "425345234",
+      "empresa": "use",
+      "id": 27
+    },
+    {
+      "nombre": "neo",
+      "email": "correo@correo.com",
+      "telefono": "67656657",
+      "empresa": "NeoWork",
+      "id": 28
+    }
+  ]
+}
